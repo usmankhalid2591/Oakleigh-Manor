@@ -1,0 +1,2770 @@
+@media screen and (max-width:1920px) {
+
+  #home-bg-image {
+    min-height: 550px;
+  }
+
+  .main-nav.fixed {
+    width: 61%;
+  }
+
+  .fixed .navbar-toggleable-md .navbar-collapse {
+    right: 380px;
+  }
+
+  .fixed a.navbar-brand.my-auto {
+    width: 0%;
+    float: right;
+  }
+
+  .main-nav {
+    min-width: 61%;
+    background: #f3f3f3;
+    padding: 44px 57px;
+  }
+
+  .navbar li.nav-item > a {
+    margin-left: 12px
+  }
+
+  #portfolio-bg-image {
+    margin-top: 1px;
+  }
+
+  #blog-bg-image {
+    margin-top: 0px;
+  }
+
+  #services-bg-image {
+    position: relative;
+  }
+
+  #contactus-bg-image {
+    margin-top: 0px;
+  }
+
+  .thumbnail {
+    width: 115px;
+  }
+
+}
+
+@media screen and (max-width:1830px) {
+  .fixed .navbar-toggleable-md .navbar-collapse {
+    right: 317px;
+  }
+
+}
+
+@media screen and (max-width:1720px) {
+  .main-nav {
+    min-width: 63%;
+    background: #f3f3f3;
+    padding: 44px 57px;
+  }
+
+  .fixed .navbar-toggleable-md .navbar-collapse {
+    right: 255px;
+  }
+
+  .fixed a.navbar-brand.my-auto {
+    width: 58%;
+    float: right;
+  }
+
+}
+
+@media screen and (min-height:850px) {
+  #home-bg-image {
+    min-height: 570px !important;
+  }
+
+  .home-bg-image-margin {
+    margin-top: 162px !important;
+  }
+
+    section#Home-carousel .carousel-item {
+    min-height: 570px;
+}
+
+section#Home-carousel .carousel-caption {
+  top: 30px !important;
+  bottom: inherit !important;
+}
+
+section#Home-carousel .carousel-caption {
+    top: 20px !important;
+}
+
+
+
+}
+
+@media screen and (max-width:1550px) {
+  .fixed .navbar-toggleable-md .navbar-collapse {
+    right: 161px;
+  }
+
+}
+
+@media screen and (max-width:1440px) {
+  .fixed .navbar-toggleable-md .navbar-collapse {
+    right: 105px;
+  }
+
+  .fixed a.navbar-brand.my-auto {
+    width: 89%;
+  }
+
+  #home-bg-image {
+    min-height: 330px;
+    margin-top: -9px;
+  }
+
+  .main-nav {
+    min-width: 78%;
+    padding: 45px 57px;
+  }
+
+  .thumbnail {
+    width: 115px;
+  }
+
+  ul.navbar-nav.mr-auto.small.nav-row2 li > a {
+    padding-right: 7px !important;
+  }
+
+  .main-nav {
+    min-width: 68%;
+  }
+
+  .col-md-12 .show>.dropdown-menu {
+    display: block;
+    overflow: hidden;
+    margin-bottom: 30px;
+  }
+
+  .fixed a.navbar-brand.my-auto img {
+    margin-left: 6px !important;
+  }
+
+}
+
+@media screen and (max-width:1365px) {
+  .fixed .navbar-toggleable-md .navbar-collapse {
+    right: 32px;
+  }
+
+}
+
+
+
+@media screen and (max-width:1200px) {
+  
+/**
+  .fixed a.navbar-brand.my-auto img {
+    height: 53px;
+  }
+
+  .fixed a.navbar-brand.my-auto img {
+    margin-left: 6px !important;
+  }
+
+  .fixed .navbar-toggleable-md .navbar-collapse {
+    right: 142px;
+  }
+
+  .main-nav {
+    padding: 44px 57px;
+  }
+
+  .main-nav {
+    min-width: 68% !important;
+  }
+
+  .nav2 {
+    position: relative;
+    right: -15px;
+  }
+
+  ul.navbar-nav.ml-auto.small.nav-row2 {
+    margin-left: 153px !important;
+  }
+
+  .navbar li.nav-item a {
+    font-size: 14px;
+    font-weight: 600;
+    margin-left: 2px;
+    font-family: 'Montserrat', sans-serif;
+  }
+
+  .navbar li.nav-item p {
+    font-size: 18px;
+  }
+
+  .main-nav {
+    min-width: 69%;
+  }
+
+  a.navbar-brand img {
+    height: 50px;
+    margin-bottom: 15px;
+  }
+
+  .fixed .main-nav {
+    position: absolute;
+    top: 0px;
+  }
+
+  .fixed ul.navbar-nav.ml-auto.small.nav-row2 {
+    left: 208px;
+    position: relative;
+  }
+
+  .fixed .nav2 {
+    right: -55px;
+  }
+
+  .main-nav {
+    position: absolute;
+    top: 60px;
+  }
+
+  .navbar-toggleable-md .navbar-collapse {
+    top: -36px;
+  }
+
+  ul.navbar-nav.ml-auto.small.nav-row2 {
+    width: 90%;
+  }
+
+*/
+
+
+
+a.navbar-brand.my-auto img {
+    height: 50px;
+}
+
+.fixed a.navbar-brand.my-auto img {
+    margin-left: 25px !important;
+}
+
+.navbar li.nav-item > a {
+    margin-left: 5px;
+}
+.main-nav {
+    min-width: 71%;
+}
+
+.navbar-toggleable-md .navbar-collapse {
+    top: -27px;
+}
+
+
+
+  .col-md-12 .show>.dropdown-menu {
+    display: block;
+    margin-bottom: 30px;
+  }
+
+  #recent-project .hoverfx .figure {
+    margin-top: 0px !important;
+  }
+
+  .figure p {
+    font-size: 12px;
+  }
+
+  .top-header img {
+    width: 70%;
+    height: 25%
+  }
+
+  .top-header p {
+    font-size: 16px;
+  }
+
+  .top-header p span {
+    font-size: 16px;
+  }
+
+  .home-bg-image-margin h2 {
+    font-size: 42px;
+  }
+
+  .home-bg-image-margin h1 {
+    font-size: 42px;
+  }
+
+  .imagetextright1 h2 {
+    font-size: 34px;
+  }
+
+  .imagetextright1 h4 {
+    font-size: 16px;
+  }
+
+  .imagetextright2 h2 {
+    font-size: 34px;
+  }
+
+  .imagetextright2 h4 {
+    font-size: 16px;
+  }
+
+  .imagetextright3 h2 {
+    font-size: 34px;
+  }
+
+  .imagetextright3 h4 {
+    font-size: 16px;
+  }
+
+  .background-image4 {
+    width: 474px;
+    height: 610px;
+  }
+
+  .background-image5 {
+    width: 474px;
+    height: 610px;
+  }
+
+  section#homeourservices h2 {
+    font-size: 32px;
+  }
+
+  section#homeourservices .owl-next {
+    display: inline-block !important;
+  }
+
+  section#homeourservices .owl-prev {
+    display: inline-block !important;
+    margin-left: 0px !important;
+  }
+
+  section#homegreen h5 {
+    font-size: 20px;
+  }
+
+  button.btn.btn-secondary {
+    font-size: 18px;
+    padding: 10px;
+    width: 135%;
+    margin-left: -70px;
+  }
+
+  section#homewhite .background-image5 p {
+    padding-bottom: 62px;
+  }
+
+  section#recent-project .filter-menu ul li {
+    font-size: 16px;
+  }
+
+  section#recent-project .col-md-3 h4 {
+    font-size: 28px;
+  }
+
+  section#recent-project .col-md-3 h3 {
+    font-size: 34px;
+  }
+
+  section#recent-project .col-md-3 p {
+    font-size: 16px;
+  }
+
+  section#recent-project .col-md-3 h6 {
+    font-size: 16px;
+  }
+
+  #recent-project .owl-nav .owl-prev {
+    margin-left: -13px;
+  }
+
+  #recent-project .owl-nav {
+    left: -33%;
+  }
+
+  section#recent-project .col-md-3 h6 {
+    padding-top: 0px;
+  }
+
+  section#homewhite h2 {
+    font-size: 32px !important;
+  }
+
+  section#homewhite .col-md-12 p {
+    font-size: 16px;
+  }
+
+  .background-image4 h4 {
+    font-size: 34px;
+  }
+
+  section#homewhite .background-image4 p {
+    font-size: 16px;
+  }
+
+  .background-image5 h4 {
+    font-size: 30px;
+  }
+
+  section#homewhite .background-image5 p {
+    font-size: 16px;
+  }
+
+  .background-image4 a {
+    font-size: 16px;
+  }
+
+  .background-image5 a {
+    font-size: 16px;
+  }
+
+  section#homegray p {
+    font-size: 16px;
+  }
+
+  button.btn.btn-secondary2 {
+    font-size: 16px;
+    width: 154% !important;
+    padding: 0px;
+    margin-left: -26px;
+  }
+
+  button.btn.btn-secondary3 {
+    font-size: 16px;
+  }
+
+  section#seviceswelcome h2 {
+    font-size: 32px;
+  }
+
+  section#seviceswelcome h4 {
+    font-size: 32px;
+  }
+
+  section#seviceswelcome p {
+    font-size: 16px;
+  }
+
+  button.btn.btn-secondary4 {
+    font-size: 16px;
+  }
+
+  section#sevicesourservices h2 {
+    font-size: 32px;
+  }
+
+  section#sevicesourservices p {
+    font-size: 16px
+  }
+
+  section#sevicesourservices h3 {
+    font-size: 16px;
+  }
+
+  .row.text-center.text-lg-left .img-fluid {
+    border: none;
+    width: 100%;
+  }
+
+  section#seviceswhyoakleighmanor h2 {
+    font-size: 32px;
+  }
+
+  section#seviceswhyoakleighmanor h5 {
+    font-size: 16px;
+  }
+
+  section#seviceswhyoakleighmanor p {
+    font-size: 16px;
+  }
+
+  section#serviceshowwework h2 {
+    font-size: 32px;
+  }
+
+  section#serviceshowwework h5 {
+    font-size: 16px;
+  }
+
+  section#serviceshowwework p {
+    font-size: 16px;
+  }
+
+  section#servicesgarden h2 {
+    font-size: 32px;
+  }
+
+  section#servicesgarden h6 {
+    font-size: 16px;
+  }
+
+  .card-body h5 {
+    font-size: 16px;
+  }
+
+  .card-body p {
+    font-size: 16px;
+  }
+
+  .card {
+    width: 107% !important;
+    height: 100% !important;
+  }
+
+  img.card-img-top {
+    width: 100% !important;
+  }
+
+  section#servicesreviews h1 {
+    font-size: 32px;
+  }
+
+  section#servicesreviews h4 {
+    font-size: 16px;
+  }
+
+  section#servicesotherservices h1 {
+    font-size: 32px;
+  }
+
+  section#servicesotherservices h4 {
+    font-size: 16px;
+  }
+
+  section#servicesotherservices h5 {
+    font-size: 16px;
+  }
+
+  section#servicesotherservices h3 {
+    font-size: 16px;
+  }
+
+  .testimonial.testimonial-default .testimonial-section {
+    font-size: 18px;
+  }
+
+  .testimonial.testimonial-default .testimonial-section i.fa.fa-quote-left {
+    font-size: 20px;
+  }
+
+  .testimonial-desc .fa {
+    font-size: 16px;
+  }
+
+  .testimonial-desc p {
+    font-size: 16px;
+  }
+
+  .carousel-indicators li {
+    display: inline-block;
+    width: 13px !important;
+    height: 16px !important;
+    border-radius: 16px !important;
+  }
+
+  section#servicesgray p {
+    font-size: 16px;
+  }
+
+  section#contactusform .col-md-4 p {
+    font-size: 13px;
+  }
+
+  div#map {
+    width: 128.7% !important;
+  }
+
+  .textright1 h3 {
+    font-size: 22px !important;
+  }
+
+  .textright2 h3 {
+    font-size: 22px !important;
+  }
+
+  .textright3 h3 {
+    font-size: 22px !important;
+  }
+
+  .contact-info-inner {
+    max-height: 162px;
+    min-width: 316px;
+  }
+
+  .textright2 h4 {
+    font-weight: 300;
+    float: right;
+    font-size: 11px !important; 
+    font-family: 'Montserrat', sans-serif;
+    margin-right: -16px;
+    color: white;
+  }
+
+  section#portfolio-bg-image .home-bg-image-margin h1 {
+    font-size: 44px !important;
+  }
+
+  section#carouselsec h2 {
+    font-size: 20px;
+  }
+
+  #carouselsec .owl-thumb-item img {
+    width: 150px;
+    margin-left: -5px;
+  }
+
+  section#portfoliorelatedprojects .row1 {
+    width: 100%;
+  }
+
+  button.btn.btn-secondary5 {
+    font-size: 17px;
+    width: 140px;
+    padding: 5px;
+  }
+
+  #portfoliorelatedprojects .owl-prev {
+    padding: 4px 16px !important;
+    margin-left: 0px !important;
+  }
+
+  .thumbnail2 {
+    height: 154.52px !important;
+    width: 210px !important;
+  }
+
+  .owl-carouselportfoiliotwo  .owl-theme .owl-item.active {
+    height: 154.52px !important;
+    width: 210px !important;
+  }
+
+  button.btn.btn-secondary3 {
+    width: 339px;
+    height: 50px;
+    padding: 0px;
+  }
+
+#recent-project .hoverfx .figure {
+    top: -145px;
+  }
+
+  section#Home-carousel img.d-block {
+    width: initial; 
+}
+
+
+}
+
+
+
+
+
+
+@media screen and (max-width:991px) {
+
+  ul.navbar-nav.ml-auto.small.nav-row2 {
+    width: 100%;
+}
+
+ ul.navbar-nav.ml-auto.small.nav-row2 {
+    padding-left: 34px;
+}
+
+
+  .fixed a.navbar-brand.my-auto img {
+    margin-left: -12px;
+  }
+
+  .fixed ul.navbar-nav.ml-auto.small.nav-row2 {
+    left: 75px;
+  }
+
+  .nav-header .col-md-10 {
+    -webkit-box-flex: inherit;
+    -webkit-flex: inherit;
+    -ms-flex: 0 0 83.333333%;
+    flex: inherit;
+    max-width: inherit;
+    padding: 0;
+  }
+
+  ul.navbar-nav.ml-auto.small.nav-row2 {
+    padding-top: 20px;
+  }
+
+  .fixed {
+    position: relative;
+    margin: auto;
+  }
+
+  .fixed .navbar-toggleable-md .navbar-collapse {
+    right: 0;
+    width: 95%;
+    margin: auto;
+  }
+
+  .navbar-light .navbar-toggler {
+    border: none !important;
+  }
+
+  .fixed nav.navbar.navbar-toggleable-md.navbar-light.fixed {
+    padding: 0;
+  }
+
+  .mr-auto.nav-row2 {
+    float: left;
+    padding-bottom: 60px;
+  }
+
+  section#homewhite .background-image4 p {
+    padding-top: 37px;
+    padding-left: 47px;
+    margin-bottom: 60px;
+  }
+
+  .main-nav {
+    display: none;
+    position: relative;
+  }
+
+  .navbar-toggleable-md .navbar-collapse {
+    position: relative;
+    top: 24px;
+    background: white;
+    overflow: hidden;
+    width: 100%;
+  }
+
+.nav2 {
+    position: relative;
+    padding-left: 36px;
+    margin-top: 9px;
+    display: inline-block;
+}
+  .nav-row2 {
+    float: left;
+  }
+
+  .navbar {
+    display: inherit;
+  }
+
+  .navbar-light .navbar-toggler {
+    margin-top: 15px;
+  }
+
+  .nav-header {
+    min-height: 86px;
+  }
+
+  .bg-text h5.mbold {
+    width: 94%;
+  }
+
+  .project-highlights {
+    text-align: center;
+  }
+
+  .filter-menu ul li {
+    display: inline-block;
+    padding: 5px 4px;
+    text-transform: capitalize;
+    cursor: pointer;
+  }
+
+  .top-header img {
+    width: 75%;
+    height: 20%;
+    position: relative;
+    top: 4px;
+  }
+
+  .top-header p {
+    font-size: 14px;
+  }
+
+  .top-header p span {
+    font-size: 14px;
+  }
+
+  .home-bg-image-margin h2 {
+    font-size: 38px;
+  }
+
+  .home-bg-image-margin h1 {
+    font-size: 38px;
+  }
+
+  .background-image4 {
+    padding-bottom: 50px;
+    width: 100%;
+    height: 100%;
+  }
+
+  .background-image5 {
+    width: 100%;
+    height: 100%;
+  }
+
+  .imagetextright1 h2 {
+    font-size: 30px;
+  }
+
+  .imagetextright1 h4 {
+    font-size: 14px;
+  }
+
+  .imagetextright2 h2 {
+    font-size: 30px;
+  }
+
+  .imagetextright2 h4 {
+    font-size: 14px;
+  }
+
+  .imagetextright3 h2 {
+    font-size: 30px;
+  }
+
+  .imagetextright3 h4 {
+    font-size: 14px;
+  }
+
+  #recent-project .owl-nav {
+    left: -35%;    /* position: absolute; */
+    top: 325px;
+  }
+
+  #recent-project .owl-nav .owl-prev {
+    margin-left: -24px;
+    position: relative;
+    top: 60px;
+  }
+
+  #recent-project .owl-nav .owl-next {
+    margin-left: -12px;
+    position: relative;
+    left: 60px;
+    top: 10px;
+  }
+
+  #recent-project .owl-nav {
+    left: -35%;    /* position: absolute; */
+    top: 230px;    /* border: 0px; */
+    width: 12%;
+  }
+
+  button.btn.btn-secondary {
+    font-size: 18px;
+    padding: 10px;
+    width: 181% !important;
+    margin-top: 7px;
+  }
+
+  section#homegreen h5 {
+    font-size: 18px;
+  }
+
+  section#homeourservices .owl-next {
+    display: inline-block !important;
+  }
+
+  section#homeourservices .owl-prev {
+    display: inline-block !important;
+    margin-left: 0px !important;
+  }
+
+  section#recent-project .filter-menu ul li {
+    font-size: 16px;
+  }
+
+  section#recent-project .col-md-3 h4 {
+    font-size: 26px;
+  }
+
+  section#recent-project .col-md-3 h3 {
+    font-size: 32px;
+  }
+
+  section#recent-project .col-md-3 p {
+    font-size: 16px;
+  }
+
+  section#recent-project .col-md-3 h6 {
+    font-size: 16px;
+  }
+
+  section#servicesotherservices h1 {
+    font-size: 26px;
+  }
+
+  section#servicesotherservices h4 {
+    font-size: 16px;
+  }
+
+  section#servicesotherservices h5 {
+    font-size: 16px;
+  }
+
+  section#servicesotherservices h3 {
+    font-size: 16px;
+  }
+
+  section#homewhite h2 {
+    font-size: 30px !important;
+  }
+
+  section#homewhite .col-md-12 p {
+    font-size: 15px;
+  }
+
+  .background-image4 h4 {
+    font-size: 30px;
+  }
+
+  section#homewhite .background-image4 p {
+    font-size: 16px;
+  }
+
+  .background-image5 h4 {
+    font-size: 28px;
+  }
+
+  section#homewhite .background-image5 p {
+    font-size: 12px;
+  }
+
+  .background-image4 a {
+    font-size: 16px;
+  }
+
+  .background-image5 a {
+    font-size: 16px;
+  }
+
+  section#homegray p {
+    font-size: 16px;
+  }
+
+  button.btn.btn-secondary2 {
+    font-size: 16px;
+    width: 210% !important;
+    padding: 0px;    /* float: left; */
+    top: 120px;
+    position: absolute;
+    right: 266px;
+    height: 34%;
+  }
+
+  .col-md-8.col-offset-1 p {
+    width: 155%;
+  }
+
+  section#homeblackfooter h3 {
+    font-size: 18px;
+  }
+
+  section#homeblackfooter a {
+    color: white;
+    font-size: 12px;
+  }
+
+  button.btn.btn-secondary3 {
+    font-size: 16px;
+    padding: 0px;    /* width: 241% !important; */
+
+    /* top: 153px; */
+    position: absolute;    /* right: 305px; */
+    margin-top: 0px;
+  }
+
+  section#homegray {
+    padding-bottom: 85px;
+  }
+
+  section#homeblackfooter p {
+    font-size: 14.0px;    /* padding-top: 12px; */
+    margin-top: 50px;
+  }
+
+  section#seviceswelcome h2 {
+    font-size: 28px;
+  }
+
+  section#seviceswelcome h4 {
+    font-size: 28px;
+  }
+
+  section#seviceswelcome p {
+    font-size: 16px;
+  }
+
+  button.btn.btn-secondary4 {
+    font-size: 13px;
+  }
+
+  section#sevicesourservices h2 {
+    font-size: 28px;
+  }
+
+  section#sevicesourservices p {
+    font-size: 16px
+  }
+
+  section#sevicesourservices h3 {
+    font-size: 16px;
+  }
+
+  section#seviceswhyoakleighmanor h2 {
+    font-size: 28px;
+  }
+
+  section#seviceswhyoakleighmanor h5 {
+    font-size: 16px;
+  }
+
+  section#seviceswhyoakleighmanor p {
+    font-size: 16px;
+  }
+
+  section#serviceshowwework h2 {
+    font-size: 28px;
+  }
+
+  section#serviceshowwework h5 {
+    font-size: 16px;
+  }
+
+  section#serviceshowwework p {
+    font-size: 16px;
+  }
+
+  section#servicesgarden h2 {
+    font-size: 28px;
+  }
+
+  section#servicesgarden h6 {
+    font-size: 16px;
+  }
+
+  .card-body h5 {
+    padding-bottom: 0px;
+    font-size: 16px;
+  }
+
+  .card-body p {
+    font-size: 16px;
+  }
+
+  img.card-img-top {
+    width: 100% !important;
+  }
+
+  section#servicesreviews h1 {
+    font-size: 28px;
+  }
+
+  section#servicesreviews h4 {
+    font-size: 16px;
+  }
+
+  .testimonial.testimonial-default .testimonial-section {
+    font-size: 16px;
+  }
+
+  .testimonial.testimonial-default .testimonial-section i.fa.fa-quote-left {
+    font-size: 18px;
+  }
+
+  .testimonial-desc .fa {
+    font-size: 14px !important;
+  }
+
+  .testimonial-desc p {
+    font-size: 10px !important;
+    margin-top: -2px !important;
+    margin-right: -20px !important;
+  }
+
+  .carousel-indicators li {
+    display: inline-block;
+    width: 13px !important;
+    height: 16px !important;
+    border-radius: 16px !important;
+  }
+
+  section#servicesgray p {
+    font-size: 16px;
+  }
+
+  section#contactus-bg-image h1 {
+    font-size: 44px !important;
+  }
+
+  section#contactusform .col-md-4 p {
+    font-size: 8px;
+  }
+
+  div#map {
+    width: 140.8% !important;
+  }
+
+  .textright1 h3 {
+    font-size: 20px !important;
+  }
+
+  .textright2 h3 {
+    font-size: 20px !important;
+  }
+
+  .textright3 h3 {
+    font-size: 20px !important;
+  }
+
+  section#maincontactus .circle {
+    width: 50px;
+    height: 50px;
+    border-radius: 35px;
+  }
+
+  i.fa.fa-map-marker {
+    padding: 14px;
+    font-size: 26px;
+    padding-top: 9px;
+  }
+
+  .contact-info-inner {
+    max-height: 112px;
+    min-width: 238px;
+  }
+
+  i.fa.fa-envelope {
+    padding: 8px;
+    font-size: 26px;
+    padding-left: 9px;
+    color: #6aaf07;
+  }
+
+  i.fa.fa-phone {
+    padding: 10px;
+    font-size: 26px;
+    padding-left: 12px;
+  }
+
+  .textright2 h4 {
+    margin-top: 0px;
+    margin-right: -11px;
+    font-size: 9px !important;
+  }
+
+  .textright3 h4 {
+    margin-top: 9px;
+  }
+
+  section#portfolio-bg-image .home-bg-image-margin h1 {
+    font-size: 40px !important;
+    margin-left: -62px;
+  }
+
+  section#carouselsec h2 {
+    font-size: 19px;
+  }
+
+  #carouselsec .owl-thumb-item img {
+    width: 90px;
+    height: 76px;
+    padding: 0px;
+    margin-left: -5px;
+  }
+
+  section#portfoliodesignfeatures h3 {
+    font-size: 23px;
+  }
+
+  div#headingOne a {
+    font-size: 18px;
+  }
+
+  div#headingTwo a {
+    font-size: 18px;
+  }
+
+  div#headingThree a {
+    font-size: 18px;
+  }
+
+  div#headingFour a {
+    font-size: 18px;
+  }
+
+  div#headingFive a {
+    font-size: 18px;
+  }
+
+  div#headingSix a {
+    font-size: 18px;
+  }
+
+  div#headingSeven a {
+    font-size: 18px;
+  }
+
+  div#headingEight a {
+    font-size: 18px;
+  }
+
+  section#portfoliorelatedprojects .row1 {
+    width: 100%;
+  }
+
+  button.btn.btn-secondary5 {
+    font-size: 16px;
+    width: 130px;
+    padding: 0px;
+    margin-left: -25px;
+    margin-top: -20px;
+  }
+
+  #portfoliorelatedprojects .owl-prev {
+    padding: 4px 16px !important;
+    margin-left: -16px !important;
+    display: inline-block !important;
+  }
+
+  #portfoliorelatedprojects .owl-next {
+    padding: 4px 16px !important;
+    margin-top: 30px;
+    display: inline-block !important;
+  }
+
+
+  #garden-carousel .carousel-item img {
+     height: initial; 
+     width: initial;
+}
+
+
+}
+
+@media screen and (max-width:767px) {
+
+  .higlyskill {
+    padding-top: 60px;
+  }
+
+  section#recent-project .col-md-12 .filter-menu {
+    width: 105%;
+  }
+
+  section#recent-project .filter-menu ul li {
+    font-size: 12px;
+  }
+
+  .top-header img {
+    overflow: hidden;
+    float: right;
+    top: -88px;
+  }
+
+  .navbar-light .navbar-toggler {
+    z-index: 99999;
+  }
+
+  .embed-responsive .embed-responsive-item,
+  .embed-responsive iframe,
+  .embed-responsive embed,
+  .embed-responsive object,
+  .embed-responsive video {
+    min-height: inherit;
+  }
+
+  .top-header img {
+    width: 20%;
+    height: 50% !important;
+    position: relative;
+  }
+
+  .top-header p {
+    font-size: 12px;
+  }
+
+  .top-header p span {
+    font-size: 12px;
+  }
+
+  .home-bg-image-margin h2 {
+    font-size: 34px;
+  }
+
+  .home-bg-image-margin h1 {
+    font-size: 34px;
+  }
+
+  .imagetextright1 h2 {
+    font-size: 26px;
+    padding: 10px;
+  }
+
+  .imagetextright1 h4 {
+    font-size: 15px;
+    text-align: center;
+    line-height: 20px;
+  }
+
+  .imagetextright2 h2 {
+    font-size: 26px;
+    padding: 10px;
+  }
+
+  .col-md-8.col-offset-1 {
+    width: 68%
+  }
+
+  .imagetextright2 h4 {
+    font-size: 15px;
+    text-align: center;
+    line-height: 20px;
+  }
+
+  .transparentblack h2 {
+    text-align: center;
+  }
+
+  .imagetextright3 h2 {
+    font-size: 26px;
+  }
+
+  .imagetextright3 h4 {
+    font-size: 15px;
+    padding-top: 9px;
+    float: left;
+    text-align: center;
+    line-height: 20px;
+  }
+
+  #recent-project .owl-nav {
+    top: 270px;
+    left: 31px;
+  }
+
+  button.btn.btn-secondary {
+    font-size: 16px;
+    width: 248px !important;
+    margin-left: 2px;
+    padding: 12px;
+  }
+
+  section#recent-project {
+    padding-bottom: 110px;
+  }
+
+  section#homegreen h5 {
+    font-size: 18px;
+  }
+
+  section#recent-project .col-md-3 h4 {
+    font-size: 20px;
+  }
+
+  section#recent-project .col-md-3 h3 {
+    font-size: 28px;
+  }
+
+  section#recent-project .col-md-3 p {
+    font-size: 16px;
+  }
+
+  section#recent-project .col-md-3 h6 {
+    font-size: 16px;
+  }
+
+  section#homewhite h2 {
+    font-size: 28px !important;
+  }
+
+  section#homewhite .col-md-12 p {
+    font-size: 14px;
+  }
+
+  .background-image4 {
+    width: 100%;
+    height: 100%;
+    margin-bottom: 12px;
+  }
+
+  section#homewhite .background-image4 p {
+    font-size: 16px;
+  }
+
+  .background-image5 {
+    width: 100%;
+    height: 100%;
+    margin-bottom: 12px !important;
+    margin-top: 12px !important;
+  }
+
+  section#homewhite .background-image5 p {
+    font-size: 16px;
+  }
+
+  .background-image4 a {
+    font-size: 16px;
+  }
+
+  .background-image5 a {
+    font-size: 16px;
+  }
+
+  section#homegray p {
+    font-size: 16px;
+  }
+
+  button.btn.btn-secondary2 {
+    font-size: 10px;
+    right: 283px;
+    top: 7px;
+    width: 45% !important;
+    padding: 0px;
+    height: 50px;
+  }
+
+  section#homeblackfooter h3 {
+    font-size: 18px;
+  }
+
+  section#homeblackfooter a {
+    color: white;
+    font-size: 12px;
+  }
+
+  button.btn.btn-secondary3 {
+    font-size: 16px;
+    padding: 0px;
+    width: 54% !important;
+    height: 10% !important;
+  }
+
+  section#homeblackfooter p {
+    font-size: 13.0px;
+  }
+
+  section#seviceswelcome h2 {
+    font-size: 24px;
+  }
+
+  section#seviceswelcome h4 {
+    font-size: 24px;
+  }
+
+  section#seviceswelcome p {
+    font-size: 16px;
+  }
+
+  button.btn.btn-secondary4 {
+    font-size: 12px;
+  }
+
+  section#sevicesourservices h2 {
+    font-size: 24px;
+  }
+
+  section#sevicesourservices p {
+    font-size: 16px
+  }
+
+  section#sevicesourservices h3 {
+    font-size: 16px;
+  }
+
+  section#seviceswhyoakleighmanor h2 {
+    font-size: 24px;
+  }
+
+  section#seviceswhyoakleighmanor h5 {
+    font-size: 16px;
+  }
+
+  section#seviceswhyoakleighmanor p {
+    font-size: 16px;
+  }
+
+  section#serviceshowwework h2 {
+    font-size: 24px;
+  }
+
+  section#serviceshowwework h5 {
+    font-size: 16px;
+  }
+
+  section#serviceshowwework p {
+    font-size: 16px;
+  }
+
+  section#servicesgarden h2 {
+    font-size: 24px;
+  }
+
+  section#servicesgarden h6 {
+    font-size: 16px;
+  }
+
+  section#servicesotherservices h1 {
+    font-size: 24px;
+  }
+
+  section#servicesotherservices h4 {
+    font-size: 16px;
+  }
+
+  section#servicesotherservices h5 {
+    font-size: 16px;
+  }
+
+  section#servicesotherservices h3 {
+    font-size: 16px;
+  }
+
+  .card-body h5 {
+    font-size: 16px;
+  }
+
+  .card-body p {
+    font-size: 16px;
+  }
+
+  section#servicesreviews h1 {
+    font-size: 24px;
+  }
+
+  section#servicesreviews h4 {
+    font-size: 16px;
+  }
+
+  .testimonial.testimonial-default .testimonial-section {
+    font-size: 16px;
+  }
+
+  .testimonial.testimonial-default .testimonial-section i.fa.fa-quote-left {
+    font-size: 16px;
+  }
+
+  .testimonial-desc .fa {
+    font-size: 10px !important;
+  }
+
+  .testimonial-desc p {
+    font-size: 12px;
+  }
+
+  .carousel-indicators li {
+    display: inline-block;
+    width: 13px !important;
+    height: 16px !important;
+    border-radius: 16px !important;
+  }
+
+  section#servicesgray p {
+    font-size: 16px;
+  }
+
+  section#contactus-bg-image h1 {
+    font-size: 40px !important;
+  }
+
+  #contactusform .col-md-6 {
+    margin-top: 0px;
+    padding: 16px;
+  }
+
+  #contactusform .col-md-12 {
+    margin-bottom: 16px;
+  }
+
+  section#contactusmap h1 {
+    font-size: 24px;
+  }
+
+  div#map {
+    width: 120.8% !important;
+  }
+
+  .textright2 h4 {
+    margin-top: 0px;
+    margin-right: 0px;
+    float: left;
+  }
+
+  section#portfolio-bg-image .home-bg-image-margin h1 {
+    font-size: 36px !important;
+    margin-left: -196px;
+  }
+
+  section#carouselsec h2 {
+    font-size: 17px;
+    margin: 6px;
+  }
+
+  #carouselsec .owl-thumb-item img {
+    width: 115px;
+    height: 76px;
+    padding: 0px;
+    margin-left: -5px;
+  }
+
+  section#portfoliodesignfeatures h3 {
+    font-size: 21px;
+  }
+
+  div#headingOne a {
+    font-size: 17px;
+  }
+
+  div#headingTwo a {
+    font-size: 17px;
+  }
+
+  div#headingThree a {
+    font-size: 17px;
+  }
+
+  div#headingFour a {
+    font-size: 17px;
+  }
+
+  div#headingFive a {
+    font-size: 17px;
+  }
+
+  div#headingSix a {
+    font-size: 17px;
+  }
+
+  div#headingSeven a {
+    font-size: 17px;
+  }
+
+  div#headingEight a {
+    font-size: 17px;
+  }
+
+  button.btn.btn-secondary5 {
+    font-size: 16px;
+    width: 130px;
+    padding: 0px;
+    margin-left: 16px;
+    margin-top: 80px;
+  }
+
+  section#portfoliorelatedprojects .row1 {
+    width: 100%;    /* height: 228%; */
+
+    /* max-height: 200px; */
+    min-height: 210px;
+  }
+
+  #portfoliorelatedprojects .owl-prev {
+    padding: 4px 16px !important;
+    margin-left: -40px !important;
+    display: inline-block !important;
+  }
+
+  section#portfoliorelatedprojects .col-md-12 h2 {
+    font-size: 22px;
+  }
+
+  button.btn.btn-secondary3 {
+    font-size: 16px;
+    padding: 0px;    /* width: 241% !important; */
+    margin-top: 530px;
+    position: absolute;
+    right: 188px;
+    width: 339px !important;
+    height: 50px !important;
+    margin-left: -25px;
+  }
+
+  section#homegreen {
+    width: 100%;
+    padding-bottom: 55px;
+  }
+
+  #recent-project .owl-nav .owl-prev {
+    margin-left: -24px;
+    position: relative;
+    top: 0px;
+  }
+
+  #recent-project .owl-nav .owl-next {
+    margin-left: -12px;
+    position: relative;
+    left: 60px;
+    top: -50px;
+  }
+
+section#garden-carousel .carousel-caption {
+    top: 44%;
+}
+
+
+
+}
+
+@media screen and (max-width:576px) {
+  section#homeourservices .owl-item {
+    height: 200px;
+  }
+
+  .col-md-8.col-offset-1 p {
+    width: 150%;
+  }
+
+  .project-highlights {
+    text-align: left;
+    position: relative;
+  }
+
+  .top-header img {
+    width: 14%;
+    height: 50% !important;
+    position: relative;
+  }
+
+  .top-header p {
+    font-size: 10px;
+  }
+
+  .top-header p span {
+    font-size: 10px;
+  }
+
+  .home-bg-image-margin h2 {
+    font-size: 22px;
+    line-height: 26px
+  }
+
+  .home-bg-image-margin h1 {
+    font-size: 26px;
+    line-height: 30px;
+  }
+
+
+  .transparentblack .circle h2 {
+    text-align: center;
+    font-size: 22px;
+  }
+
+  .col-md-4.col-sm-4 {
+    width: 28%;
+    margin-top: 43px;
+    margin-left: 25px;
+  }
+
+  .circle {
+    margin-bottom: 10px;
+    float: none;
+    margin: auto;
+    text-align: center;
+  }
+
+  button.btn.btn-secondary {
+    font-size: 10px;
+    padding: 0px;
+    width: 100%;
+  }
+
+  #recent-project .owl-nav {
+    top: 353px;
+    left: 19px;
+  }
+
+  section#recent-project {
+    padding-bottom: 150px;
+  }
+
+  section#homegreen h5 {
+    font-size: 16px;
+  }
+
+  button.btn.btn-secondary {
+    font-size: 18px;
+    padding: 11px;
+    width: 270px !important;
+  }
+
+  section#homegreen h5 {
+    font-size: 18px;
+  }
+
+  section#recent-project .col-md-3 h4 {
+    font-size: 18px;
+  }
+
+  section#recent-project .col-md-3 h3 {
+    font-size: 26px;
+  }
+
+  section#recent-project .col-md-3 p {
+    font-size: 16px;
+  }
+
+  section#recent-project .col-md-3 h6 {
+    font-size: 16px;
+  }
+
+  section#homewhite h2 {
+    font-size: 26px !important;
+  }
+
+  section#homewhite .col-md-12 p {
+    font-size: 13px;
+  }
+
+  .background-image4 h4 {
+    font-size: 26px;
+  }
+
+  section#homewhite .background-image4 p {
+    font-size: 16px;
+  }
+
+  .background-image5 h4 {
+    font-size: 26px;
+  }
+
+  section#homewhite .background-image5 p {
+    font-size: 16px;
+  }
+
+  .background-image4 a {
+    font-size: 16px;
+  }
+
+  .background-image5 a {
+    font-size: 16px;
+  }
+
+  section#homegray p {
+    font-size: 16px;
+  }
+
+  button.btn.btn-secondary2 {
+    font-size: 16px;
+    width: 68% !important;
+    padding: 0px;
+    height: 65px;
+    right: 142px;
+    top: 7px;
+    padding: 0px;
+  }
+
+  section#homeblackfooter h3 {
+    font-size: 18px;
+  }
+
+  section#homeblackfooter a {
+    color: white;
+    font-size: 12px;
+  }
+
+  button.btn.btn-secondary3 {
+    font-size: 16px;
+    padding: 0px;
+    width: 48% !important;
+    height: 8% !important;
+  }
+
+  section#homeblackfooter p {
+    font-size: 12.0px;
+  }
+
+  section#homeblackfooter p {
+    font-size: 13.0px;
+  }
+
+  section#seviceswelcome h2 {
+    font-size: 20px;
+  }
+
+  section#seviceswelcome h4 {
+    font-size: 20px;
+  }
+
+  section#seviceswelcome p {
+    font-size: 16px;
+  }
+
+  section#sevicesourservices h2 {
+    font-size: 20px;
+  }
+
+  section#sevicesourservices p {
+    font-size: 16px
+  }
+
+  section#sevicesourservices h3 {
+    font-size: 16px;
+  }
+
+  section#seviceswhyoakleighmanor h2 {
+    font-size: 20px;
+  }
+
+  section#seviceswhyoakleighmanor h5 {
+    font-size: 16px;
+  }
+
+  section#seviceswhyoakleighmanor p {
+    font-size: 16px;
+  }
+
+  section#serviceshowwework h2 {
+    font-size: 20px;
+  }
+
+  section#serviceshowwework h5 {
+    font-size: 16px;
+  }
+
+  section#serviceshowwework p {
+    font-size: 16px;
+  }
+
+  section#servicesgarden h2 {
+    font-size: 20px;
+  }
+
+  section#servicesgarden h6 {
+    font-size: 16px;
+  }
+
+  section#servicesotherservices h1 {
+    font-size: 20px;
+  }
+
+  section#servicesotherservices h4 {
+    font-size: 16px;
+  }
+
+  section#servicesotherservices h5 {
+    font-size: 16px;
+  }
+
+  section#servicesotherservices h3 {
+    font-size: 16px;
+  }
+
+  .card-body h5 {
+    font-size: 16px;
+  }
+
+  .card-body p {
+    font-size: 16px;
+  }
+
+  section#servicesreviews h1 {
+    font-size: 20px;
+  }
+
+  section#servicesreviews h4 {
+    font-size: 16px;
+  }
+
+  .testimonial.testimonial-default .testimonial-section {
+    font-size: 16px;
+  }
+
+  .testimonial.testimonial-default .testimonial-section i.fa.fa-quote-left {
+    font-size: 16px !important;
+  }
+
+  .testimonial-desc {
+    padding-bottom: 28px;
+    padding-left: 12px;
+  }
+
+  .testimonial-desc .fa {
+    font-size: 8px !important;
+  }
+
+  .testimonial-desc p {
+    font-size: 8px !important;
+    margin-top: -5px !important;
+    margin-right: -20px !important;
+    float: left;
+  }
+
+  .carousel-indicators li {
+    display: inline-block;
+    width: 13px !important;
+    height: 16px !important;
+    border-radius: 16px !important;
+  }
+
+  section#servicesgray p {
+    font-size: 16px;
+  }
+
+  .col-md-12 .greenbg h1 {
+    font-size: 26px !important;
+  }
+
+  section#contactus-bg-image h1 {
+    font-size: 36px !important;
+  }
+
+  section#maincontactus h2 {
+    font-size: 26px;
+  }
+
+  section#contactusmap h1 {
+    font-size: 22px;
+  }
+
+  section#contactusmap h2 {
+    font-size: 18px;
+  }
+
+  div#map {
+    width: 102.8% !important;
+  }
+
+  section#portfolio-bg-image .home-bg-image-margin h1 {
+    font-size: 32px !important;
+  }
+
+  section#carouselsec h2 {
+    font-size: 16px;
+    margin: 0px;
+  }
+
+  #carouselsec .owl-thumb-item img {
+    width: 105px;
+    height: 76px;
+    padding: 0px;
+    margin-left: -5px;
+  }
+
+  section#portfoliodesignfeatures h3 {
+    font-size: 20px;
+  }
+
+  div#headingOne a {
+    font-size: 16px;
+  }
+
+  div#headingTwo a {
+    font-size: 16px;
+  }
+
+  div#headingThree a {
+    font-size: 16px;
+  }
+
+  div#headingFour a {
+    font-size: 16px;
+  }
+
+  div#headingFive a {
+    font-size: 16px;
+  }
+
+  div#headingSix a {
+    font-size: 16px;
+  }
+
+  div#headingSeven a {
+    font-size: 16px;
+  }
+
+  div#headingEight a {
+    font-size: 16px;
+  }
+
+  section#portfoliorelatedprojects .row1 {
+    width: 100%;    /* height: 228%; */
+
+    /* max-height: 200px; */
+    min-height: 235px;
+  }
+
+  #portfoliorelatedprojects .owl-prev {
+    padding: 4px 16px !important;
+    margin-left: -48px !important;
+    display: inline-block !important;
+  }
+
+  section#portfoliorelatedprojects .col-md-12 h2 {
+    font-size: 20px;
+  }
+
+  button.btn.btn-secondary3 {
+    font-size: 16px;
+    padding: 0px;    /* width: 241% !important; */
+    margin-top: 525px;
+    position: absolute;
+    right: 128px;
+    width: 339px !important;
+    height: 50px !important;
+    margin-left: -25px;
+  }
+
+  section#recent-project .filter-menu ul li {
+    font-size: 16px;
+  }
+
+  section#homegreen {
+    margin-bottom: 0px;
+  }
+
+  section#homegreen {
+    width: 100%;
+  }
+
+  ul.list-inline {
+    text-align: center;
+  }
+
+#recent-project .hoverfx .figure {
+    top: 53px;
+}
+
+
+}
+
+@media screen and (max-width:480px) {
+  section#homeourservices .owl-item {
+    height: 260px;
+  }
+
+  .home-bg-image-margin h1 {
+    font-size: 20px !important;
+  }
+
+  section#home-bg-image p {
+    font-size: 18px !important;
+  }
+
+  section#homeourservices .owl-theme .owl-nav {
+    position: absolute;
+    top: 143px;
+    width: 100%;
+    right: 0;
+    float: none;
+    text-align: center;
+  }
+
+  .col-md-8.col-offset-1 p {
+    width: 139%;
+  }
+
+  button.btn.btn-secondary2 {
+    font-size: 12px !important;
+    width: 75% !important;
+    padding: 0px;
+    margin-left: 20px !important;
+    height: 60px !important;
+    right: 45px;
+    top: 7px;
+  }
+
+  .top-header img {
+    width: 18%;
+    height: 35% !important;
+    position: relative;
+  }
+
+  .top-header img {
+    overflow: hidden;
+    float: right;
+    top: -85px;
+  }
+
+  .top-header p {
+    font-size: 15px;
+  }
+
+  .top-header p span {
+    font-size: 15px;
+  }
+
+  .home-bg-image-margin h2 {
+    font-size: 26px;
+  }
+
+  .home-bg-image-margin h1 {
+    font-size: 26px;
+  }
+
+  .imagetextright1 h2 {
+    font-size: 20px;
+    padding: 16px;
+  }
+
+  .imagetextright1 h4 {
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center
+  }
+
+  .imagetextright2 h2 {
+    font-size: 20px;
+    padding: 16px;
+  }
+
+  .imagetextright2 h4 {
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center
+  }
+
+  .imagetextright3 h2 {
+    font-size: 20px;
+    padding: 14px;
+    padding-left: 25px;
+  }
+
+  .imagetextright3 h4 {
+    font-size: 16px;
+    line-height: 21px;
+    text-align: center
+  }
+
+  .imagetextright3 h4 {
+    padding-top: 0px;
+  }
+
+  button.btn.btn-secondary {
+    font-size: 18px;
+    width: 86% !important;
+    height: 111% !important;
+    margin-left: 15px
+  }
+
+  .col-md-4.col-sm-4 {
+    width: 33%;
+    margin-top: 0px;
+    margin-left: 0px;
+  }
+
+  #recent-project .owl-nav {
+
+    /* left: -35%; */
+
+    /* position: absolute; */
+    top: -110px;
+    left: 41px;
+  }
+
+  section#homegreen h5 {
+    font-size: 18px;
+    margin-left: 15px;
+    margin-top: -22px;
+  }
+
+  section#recent-project .col-md-3 h4 {
+    font-size: 16px;
+  }
+
+  section#recent-project .col-md-3 h3 {
+    font-size: 24px;
+  }
+
+  section#recent-project .col-md-3 p {
+    font-size: 16px;
+  }
+
+  section#recent-project .col-md-3 h6 {
+    font-size: 16px;
+  }
+
+  section#homewhite h2 {
+    font-size: 24px !important;
+  }
+
+  section#homewhite .col-md-12 p {
+    font-size: 12px;
+  }
+
+  .background-image4 h4 {
+    font-size: 24px;
+  }
+
+  section#homewhite .background-image4 p {
+    font-size: 16px;
+  }
+
+  .background-image4 a {
+    font-size: 16px !important;
+  }
+
+  .background-image5 a {
+    font-size: 16px;
+  }
+
+  section#homegray p {
+    font-size: 16px;
+    margin-left: 20px;
+  }
+
+  button.btn.btn-secondary2 {
+  }
+
+  section#homeblackfooter h3 {
+    font-size: 16px;
+  }
+
+  section#homeblackfooter a {
+    color: white;
+    font-size: 12px;
+  }
+
+  button.btn.btn-secondary3 {
+    font-size: 16px;
+    padding: 0px;
+    width: 45% !important;
+    height: 6% !important;
+  }
+
+  section#homeblackfooter p {
+    font-size: 11.0px;
+    margin-top: 60px;
+  }
+
+  section#seviceswelcome h2 {
+    font-size: 16px;
+  }
+
+  section#seviceswelcome h4 {
+    font-size: 16px;
+  }
+
+  section#seviceswelcome p {
+    font-size: 16px;
+  }
+
+  section#sevicesourservices h2 {
+    font-size: 16px;
+  }
+
+  section#sevicesourservices p {
+    font-size: 16px
+  }
+
+  section#sevicesourservices h3 {
+    font-size: 16px;
+  }
+
+  section#seviceswhyoakleighmanor h2 {
+    font-size: 16px;
+  }
+
+  section#seviceswhyoakleighmanor h5 {
+    font-size: 16px;
+  }
+
+  section#seviceswhyoakleighmanor p {
+    font-size: 16px;
+  }
+
+  section#serviceshowwework h2 {
+    font-size: 16px;
+  }
+
+  section#serviceshowwework h5 {
+    font-size: 16px;
+  }
+
+  section#serviceshowwework p {
+    font-size: 16px;
+  }
+
+  section#servicesgarden h2 {
+    font-size: 16px;
+  }
+
+  section#servicesgarden h6 {
+    font-size: 16px;
+  }
+
+  section#servicesotherservices h1 {
+    font-size: 16px;
+  }
+
+  section#servicesotherservices h4 {
+    font-size: 16px;
+  }
+
+  section#servicesotherservices h5 {
+    font-size: 16px;
+  }
+
+  section#servicesotherservices h3 {
+    font-size: 16px;
+  }
+
+  .card-body h5 {
+    font-size: 16px;
+  }
+
+  .card-body p {
+    font-size: 16px;
+  }
+
+  section#servicesreviews h1 {
+    font-size: 16px;
+  }
+
+  section#servicesreviews h4 {
+    font-size: 16px;
+  }
+
+  .testimonial.testimonial-default .testimonial-section {
+    font-size: 16px;
+  }
+
+  .testimonial.testimonial-default .testimonial-section i.fa.fa-quote-left {
+    font-size: 16px;
+  }
+
+  .testimonial-desc .fa {
+    font-size: 5px !important;
+  }
+
+  .testimonial-desc p {
+    font-size: 7px !important;
+  }
+
+  .carousel-indicators li {
+    display: inline-block;
+    width: 13px !important;
+    height: 16px !important;
+    border-radius: 16px !important;
+  }
+
+  .testimonial.testimonial-default .testimonial-desc {
+    width: 70%;
+  }
+
+  section#servicesgray p {
+    font-size: 16px;
+  }
+
+  .col-md-12 .greenbg h1 {
+    font-size: 22px !important;
+  }
+
+  section#contactus-bg-image h1 {
+    font-size: 32px !important;
+  }
+
+  section#maincontactus h2 {
+    font-size: 22px;
+  }
+
+  section#contactusmap h1 {
+    font-size: 20px;
+  }
+
+  section#contactusmap h2 {
+    font-size: 18px;
+  }
+
+  section#portfolio-bg-image .home-bg-image-margin h1 {
+    font-size: 28px !important;
+    margin-left: -233px;
+  }
+
+  section#carouselsec h2 {
+    font-size: 16px;
+    margin: 0px;
+  }
+
+  #carouselsec .owl-thumb-item img {
+    width: 66px;
+    height: 60px;
+    padding: 0px;
+    margin-left: -5px;
+  }
+
+  section#portfoliorelatedprojects .row1 {
+    width: 100%;    /* height: 228%; */
+
+    /* max-height: 200px; */
+    min-height: 305px;
+  }
+
+  #portfoliorelatedprojects .owl-prev {
+    padding: 4px 16px !important;
+    margin-left: -70px !important;
+    display: inline-block !important;
+  }
+
+  section#portfoliorelatedprojects .col-md-12 h2 {
+    font-size: 18px;
+  }
+
+  button.btn.btn-secondary3 {
+    font-size: 12px;
+    padding: 0px;    /* width: 241% !important; */
+    position: absolute;
+    right: 128px;
+    width: 250px !important;
+    height: 50px !important;    /* margin-left: -25px; */
+    left: 40px;
+  }
+
+  section#homegreen {
+    width: 100%;
+    padding-top: 60px;
+  }
+
+  #recent-project .owl-nav .owl-prev {
+    margin-left: -24px;
+    position: relative;
+    top: 50px;
+  }
+
+  #recent-project .owl-nav .owl-next {
+    margin-left: -12px;
+    position: relative;
+    left: 60px;
+    top: 0px;
+  }
+
+}
+
+@media screen and (max-width:320px) {
+ 
+
+  button.btn.btn-secondary2 {
+    font-size: 12px !important;
+    width: 86% !important;
+    padding: 0px;
+    margin-left: 18px !important;
+    height: 60px !important;
+    right: 7px;
+    top: 7px;
+  }
+
+  section#homegreen h5 {
+    font-size: 18px;
+    margin-left: 15px;
+    margin-top: -23px;
+  }
+
+  button.btn.btn-secondary {
+    font-size: 18px;
+    width: 98% !important;
+    height: 126% !important;
+    margin-left: 15px;
+  }
+
+  section#seviceswelcome h2 {
+    font-size: 16px;
+  }
+
+  section#seviceswelcome h4 {
+    font-size: 16px;
+  }
+
+  section#seviceswelcome p {
+    font-size: 16px;
+  }
+
+  button.btn.btn-secondary4 {
+    font-size: 7px;
+    width: 130%;
+    height: 6%;
+  }
+
+  section#sevicesourservices h2 {
+    font-size: 16px;
+  }
+
+  section#sevicesourservices p {
+    font-size: 16px
+  }
+
+  section#sevicesourservices h3 {
+    font-size: 16px;
+  }
+
+  section#seviceswhyoakleighmanor h2 {
+    font-size: 16px;
+  }
+
+  section#seviceswhyoakleighmanor h5 {
+    font-size: 16px;
+  }
+
+  section#seviceswhyoakleighmanor p {
+    font-size: 16px;
+  }
+
+  section#serviceshowwework h2 {
+    font-size: 16px;
+  }
+
+  section#serviceshowwework h5 {
+    font-size: 16px;
+  }
+
+  section#serviceshowwework p {
+    font-size: 16px;
+  }
+
+  section#servicesgarden h2 {
+    font-size: 16px;
+  }
+
+  section#servicesgarden h6 {
+    font-size: 16px;
+  }
+
+  section#servicesotherservices h1 {
+    font-size: 16px;
+  }
+
+  section#servicesotherservices h4 {
+    font-size: 16px;
+  }
+
+  section#servicesotherservices h5 {
+    font-size: 16px;
+  }
+
+  section#servicesotherservices h3 {
+    font-size: 16px;
+  }
+
+  .card-body h5 {
+    font-size: 16px;
+  }
+
+  .card-body p {
+    font-size: 16px;
+  }
+
+  section#servicesreviews h1 {
+    font-size: 16px;
+  }
+
+  section#servicesreviews h4 {
+    font-size: 16px;
+  }
+
+  .testimonial.testimonial-default .testimonial-section {
+    font-size: 16px;
+  }
+
+  .testimonial.testimonial-default .testimonial-section i.fa.fa-quote-left {
+    font-size: 16px;
+  }
+
+  .testimonial-desc .fa {
+    font-size: 8px;
+  }
+
+  .testimonial-desc p {
+    font-size: 8px;
+  }
+
+  .carousel-indicators li {
+    display: inline-block;
+    width: 13px !important;
+    height: 16px !important;
+    border-radius: 16px !important;
+  }
+
+  .testimonial-desc p {
+    margin-top: -5px !important;
+    margin-right: -20px !important;/* float: left; */
+  }
+
+  .testimonial-desc .fa {
+    font-size: 5px !important;/* margin: 0px; */
+
+    /* margin-left: 1px; */
+    float: left;
+    margin: 2px;
+  }
+
+  .testimonial.testimonial-default .testimonial-desc {
+    margin-top: 36px;
+    margin-bottom: 50px;
+  }
+
+  section#servicesgray p {
+    font-size: 16px;
+  }
+
+  .col-md-12 .greenbg h1 {
+    font-size: 20px !important;
+  }
+
+  section#contactus-bg-image h1 {
+    font-size: 28px !important;
+  }
+
+  section#maincontactus h2 {
+    font-size: 20px;
+  }
+
+  section#contactusmap h2 {
+    font-size: 16px;
+  }
+
+  section#portfolio-bg-image .home-bg-image-margin h1 {
+    font-size: 24px !important;
+  }
+
+  section#carouselsec h2 {
+    font-size: 16px;
+  }
+
+  section#portfoliorelatedprojects .row1 {
+    width: 100%;    /* height: 228%; */
+
+    /* max-height: 200px; */
+    min-height: 355px;
+  }
+
+  #portfoliorelatedprojects .owl-prev {
+    margin-left: -76px !important;
+  }
+
+  section#portfoliorelatedprojects .col-md-12 h2 {
+    font-size: 16px;
+  }
+
+  button.btn.btn-secondary3 {
+    font-size: 10px;
+    padding: 0px;    /* width: 241% !important; */
+    position: absolute;
+    right: 128px;
+    width: 210px !important;
+    height: 50px !important;    /* margin-left: -25px; */
+    left: 40px;
+  }
+
+  button.btn.btn-danger3 {
+    font-size: 10px;
+    width: 235px;
+    height: 50px;
+    border-radius: 6px;
+    margin-bottom: 15px;
+  }
+
+}
+
+@media screen and (-ms-high-contrast:active), (-ms-high-contrast:none) {
+  .ml-auto.nav-row2 {
+    margin-left: 241px !important;
+  }
+
+}
