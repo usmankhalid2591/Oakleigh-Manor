@@ -4,7 +4,8 @@ html {
 
 body {
   overflow-x: hidden;
-  width: 100%
+  width: 100%;
+  font-family: "Century Gothic", CenturyGothic, sans-serif;
 }
 
 
@@ -15,30 +16,30 @@ body {
 
 h1 {
   font-size: 38px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Century Gothic", CenturyGothic, sans-serif;
 }
 
 h2 {
   font-size: 30px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Century Gothic", CenturyGothic, sans-serif;
   font-weight: 600;
 }
 
 h3 {
   font-size: 28px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Century Gothic", CenturyGothic, sans-serif;
   font-weight: 600;
 }
 
 h4 {
   font-size: 24px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Century Gothic", CenturyGothic, sans-serif;
   font-weight: 600;
 }
 
 h4 {
   font-size: 20px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Century Gothic", CenturyGothic, sans-serif;
   font-weight: 600;
 }
 
@@ -48,7 +49,7 @@ a:hover {
 }
 
 p {
-    font-family: 'Montserrat', sans-serif;
+  font-family: "Century Gothic", CenturyGothic, sans-serif;
 }
 
 .btn-primary {
@@ -75,7 +76,7 @@ line-height: 60px;
 font-weight: 400;
 color: white;
 font-size: 18px;
-font-family: 'Montserrat', sans-serif;
+  font-family: "Century Gothic", CenturyGothic, sans-serif;
 }
 i.ion-ios-email {
     top: 10px;
@@ -87,7 +88,7 @@ i.ion-ios-email {
 .top-header p span {
 color: #6aaf08 !important;
 font-size: 18px;
-font-family: 'Montserrat', sans-serif;
+  font-family: "Century Gothic", CenturyGothic, sans-serif;
 }
 .top-header img {
 margin-top: 17px;
@@ -150,13 +151,13 @@ max-height: 98%;
 }
 .home-bg-image-margin h2{
 color: white;
-font-family: 'Montserrat', sans-serif;
+font-family: "Century gothic", CenturyGothic, sans-serif;
 font-size: 48px;
 font-weight: normal;
 }
 .home-bg-image-margin h1{
 color: white;
-font-family: 'Montserrat', sans-serif;
+font-family: "Century gothic", CenturyGothic, sans-serif;
 font-weight: 300;
 font-size: 38px;
     padding-bottom: 0px;
@@ -206,7 +207,7 @@ margin-top: 56px;
 button.btn.btn-primary {
     font-weight: 500;
     background: #6aaf08;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Century gothic", CenturyGothic, sans-serif;
     border-color: #6aaf08;
     border-radius: 5px;
     font-size: 18px;
@@ -256,7 +257,7 @@ border-radius: 7px;
 border: 2px solid;
 border-color: white;
 color: white;
-font-family: 'Montserrat', sans-serif;
+font-family: "Century gothic", CenturyGothic, sans-serif;
 font-size: 18px;
 font-weight: 500;
 padding: 12px;
@@ -378,7 +379,7 @@ color: white;
 }
 .btn-default a{
 color: white;
-font-family: 'Montserrat', sans-serif;
+font-family: "Century gothic", CenturyGothic, sans-serif;
 font-size: 18px;
 font-weight: 500;
 }
@@ -387,7 +388,7 @@ font-weight: 500;
 .background-image1 h4 {
 padding-top: 80px;
 font-size: 16px;
-font-family: 'Montserrat', sans-serif;
+font-family: "Century gothic", CenturyGothic, sans-serif;
 font-weight: 400;
 }
 .background-image1 h5 {
@@ -396,7 +397,7 @@ font-weight: normal;
 padding-top: 22px;
 padding-left: 33px;
 padding-right: 33px;
-font-family: 'Montserrat', sans-serif;
+font-family: "Century gothic", CenturyGothic, sans-serif;
 padding-bottom: 26px;
 }
 .background-image4  {
@@ -424,12 +425,12 @@ font-weight: 400;
     padding-right: 81px;
     padding-top: 50px;
     padding-bottom: 30px;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Century gothic", CenturyGothic, sans-serif;
     color: #6aaf08;
 }
 section#homewhite .col-md-12 p
 {
-font-family: 'Montserrat', sans-serif;
+font-family: "Century gothic", CenturyGothic, sans-serif;
 font-size: 16px;
 font-weight: 500;
 color: #6b6b6b;
@@ -445,7 +446,7 @@ padding-left: 36px;
 .background-image4 h4 {
 padding-top: 44px;
 padding-left: 42px;
-font-family: 'Montserrat', sans-serif;
+font-family: "Century gothic", CenturyGothic, sans-serif;
 font-size: 36px;
 font-weight: 700;
 color: white;
@@ -454,7 +455,7 @@ color: white;
 padding-top: 44px;
 padding-left: 42px;
 padding-right: 82px;
-font-family: 'Montserrat', sans-serif;
+font-family: "Century gothic", CenturyGothic, sans-serif;
 font-size: 30px;
 font-weight: 700;
 color:white;
@@ -464,7 +465,7 @@ padding-top: 37px;
 padding-left: 47px;
 margin-bottom: 152px;
 padding-right: 39px;
-font-family: 'Montserrat', sans-serif;
+font-family: "Century gothic", CenturyGothic, sans-serif;
 font-size: 16px;
 font-weight: 400;
 color:white;
@@ -474,7 +475,7 @@ padding-right: 39px;
 padding-bottom: 90px;
 padding-top: 37px;
 padding-left: 47px;
-font-family: 'Montserrat', sans-serif;
+font-family: "Century gothic", CenturyGothic, sans-serif;
 font-size: 16px;
 font-weight: 400;
 color:white;
@@ -483,7 +484,7 @@ color:white;
 padding-top: 53px;
 padding-left: 48px;
 color: white;
-font-family: 'Montserrat', sans-serif;
+font-family: "Century gothic", CenturyGothic, sans-serif;
 font-size: 16px;
 font-weight: 700;
 color:white;
@@ -495,7 +496,7 @@ color:white;
 .background-image5 a {
 padding-left: 48px;
 color: white;
-font-family: 'Montserrat', sans-serif;
+font-family: "Century gothic", CenturyGothic, sans-serif;
 font-size: 16px;
 font-weight: 700;
 color:white;
@@ -515,13 +516,13 @@ padding-bottom: 30px;
 }
 section#homegray p {
 font-style: italic;
-font-family: 'Montserrat', sans-serif;
+font-family: "Century gothic", CenturyGothic, sans-serif;
 font-size: 18px;
 font-weight: 500;
 color: #6b6b6b;
 }
 button.btn.btn-secondary2 {
-font-family: 'Montserrat', sans-serif;
+font-family: "Century gothic", CenturyGothic, sans-serif;
 background: #6aaf08;
 height: 60px;
 border-radius: 7px;
@@ -538,7 +539,7 @@ background: #6aaf08;
 margin-bottom: 37px;
 margin-top: 21px;
 border-radius: 7px;
-font-family: 'Montserrat', sans-serif;
+font-family: "Century gothic", CenturyGothic, sans-serif;
 color: white;
 font-size: 16px;
 font-weight: 500;
@@ -549,11 +550,12 @@ height: 62px;
 section#homeblackfooter {
 background: #272727;
 padding-top: 82px;
+padding-bottom: 80px;
 }
 section#homeblackfooter h3{
 color: #6aaf08;
 font-size: 12px;
-font-family: 'Montserrat', sans-serif;
+font-family: "Century gothic", CenturyGothic, sans-serif;
 font-size: 20px;
 font-weight: 500;
 padding-bottom: 20px;
@@ -561,7 +563,7 @@ padding-bottom: 20px;
 section#homeblackfooter a{
 color: white;
 font-size: 12px;
-font-family: 'Montserrat', sans-serif;
+font-family: "Century gothic", CenturyGothic, sans-serif;
    
     font-weight: 400;
     text-decoration: none;
@@ -590,7 +592,7 @@ footer {
 color: #777777;
 }
 section#homeblackfooter p {
-font-family: 'Montserrat', sans-serif;
+font-family: "Century gothic", CenturyGothic, sans-serif;
 font-size: 15.98px;
 font-weight: 500;
 }
@@ -631,10 +633,10 @@ height: 60px;
 .col-md-9.headeradvertisement h4{
 float: left;
 font-size: 18px;
-font-family: 'Montserrat', sans-serif;
+font-family: "Century gothic", CenturyGothic, sans-serif;
 }
 .home-bg-image-margin h4 {
-font-family: 'Montserrat', sans-serif;
+font-family: "Century gothic", CenturyGothic, sans-serif;
 font-size: 24px;
 font-weight: normal;
 color: white;
@@ -647,12 +649,12 @@ section#home-bg-image {
 margin-top: 13px;
 }
 .imagetextright h2 {
-font-family: 'Montserrat', sans-serif;
+font-family: "Century gothic", CenturyGothic, sans-serif;
 font-size: 36px;
 font-weight: normal;
 }
 .imagetextright h4 {
-font-family: 'Montserrat', sans-serif;font-size: 20px;
+font-family: "Century gothic", CenturyGothic, sans-serif;font-size: 20px;
 font-weight: normal;
 }
 .imagetextright2 {
@@ -662,14 +664,14 @@ margin-top: 13px;
 margin-top: 13px;
 }
 section#homeourservices h2 {
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Century gothic", CenturyGothic, sans-serif;
     font-size: 30px;
     font-weight: 400;
     margin-bottom: 25px;
     color: #6aaf08;
 }
 section#homeourservices p {
-font-family: 'Montserrat', sans-serif;
+font-family: "Century gothic", CenturyGothic, sans-serif;
 font-size: 16px;
 font-weight: 600;
     padding-top: 11px;
@@ -687,20 +689,20 @@ margin-bottom: 60px;
     margin: auto;
 }
 section#homegreen h5 {
-font-family: 'Montserrat', sans-serif;
+font-family: "Century gothic", CenturyGothic, sans-serif;
     font-size: 20px;
     font-weight: 500;
     font-style: italic;
     margin-top: 14px;
 }
 div#iso h1 {
-font-family: 'Montserrat', sans-serif;
+font-family: "Century gothic", CenturyGothic, sans-serif;
 font-size: 30px;
 font-weight: 300;
 padding-bottom: 34px;
 }
 div#iso p {
-font-family: 'Montserrat', sans-serif;
+font-family: "Century gothic", CenturyGothic, sans-serif;
 font-size: 16px;
 font-weight: 400;
 padding-bottom: 2px;
@@ -720,7 +722,7 @@ div#iso .pagination {
 div#iso .background-image1 a h2 {
 color: white;
 font-size: 16px;
-font-family: 'Montserrat', sans-serif;
+font-family: "Century gothic", CenturyGothic, sans-serif;
 font-weight: 400;
 }
 #homeourservices li.page-item:first-child {
@@ -794,7 +796,7 @@ section#homeourservices .pagination li {
 background: #272727 !important;
 }
 div#iso a h1 {
-font-family: 'Montserrat', sans-serif;
+font-family: "Century gothic", CenturyGothic, sans-serif;
 font-size: 18px;
 font-weight: 400;
 color: #466a1c;
@@ -815,7 +817,7 @@ padding-left: 0px;
 button.btn.btn-danger {
 
 border-color:white;
-font-family: 'Montserrat', sans-serif;
+font-family: "Century gothic", CenturyGothic, sans-serif;
 font-size: 15px;
 font-weight: 600;
 color: #282a26;
@@ -824,13 +826,13 @@ background: transparent;
 }
 ul.navbarul a {
 
-font-family: 'Montserrat', sans-serif;
+font-family: "Century gothic", CenturyGothic, sans-serif;
 font-size: 14px;
 font-weight: 500;
 color: #282a26;
 }
 .btn-success {
-font-family: 'Montserrat', sans-serif;
+font-family: "Century gothic", CenturyGothic, sans-serif;
 font-size: 15px;
 font-weight: 600;
 color: #fff;
@@ -839,7 +841,7 @@ border-color: #5ca609;
 }
 button.btn.btn-dark {
 border-color:white;
-font-family: 'Montserrat', sans-serif;
+font-family: "Century gothic", CenturyGothic, sans-serif;
 font-size: 15px;
 font-weight: normal;
 background: transparent;
@@ -849,7 +851,7 @@ border: none;
 }
 .btn-info {
 border-color:white;
-font-family: 'Montserrat', sans-serif;
+font-family: "Century gothic", CenturyGothic, sans-serif;
 font-size: 15px;
 font-weight: normal;
 background-color: #8b4513;
@@ -862,7 +864,7 @@ margin-left: -5px;
 margin-right: 5px;
 }
 ul.navbarli.regular {
-font-family: 'Montserrat', sans-serif;
+font-family: "Century gothic", CenturyGothic, sans-serif;
 font-size: 15px;
 font-weight: normal;
 }
@@ -897,39 +899,39 @@ top: 24px;
 right: 54px;
 }
 .imagetextright1 h2 {
-font-family: 'Montserrat', sans-serif;
+font-family: "Century gothic", CenturyGothic, sans-serif;
 font-size: 36px;
 font-weight: normal;
 color: white;
 }
 .imagetextright1 h4 {
-font-family: 'Montserrat', sans-serif;
+font-family: "Century gothic", CenturyGothic, sans-serif;
 font-size: 20px;
 font-weight: normal;
 color: white;
 
 }
 .imagetextright2 h2 {
-font-family: 'Montserrat', sans-serif;
+font-family: "Century gothic", CenturyGothic, sans-serif;
 font-size: 36px;
 font-weight: normal;
 color: white;
 }
 .imagetextright2 h4 {
-font-family: 'Montserrat', sans-serif;
+font-family: "Century gothic", CenturyGothic, sans-serif;
 font-size: 20px;
 font-weight: normal;
 color: white;
 
 }
 .imagetextright3 h2 {
-font-family: 'Montserrat', sans-serif;
+font-family: "Century gothic", CenturyGothic, sans-serif;
 font-size: 36px;
 font-weight: normal;
 color: white;
 }
 .imagetextright3 h4 {
-font-family: 'Montserrat', sans-serif;
+font-family: "Century gothic", CenturyGothic, sans-serif;
 font-size: 20px;
 font-weight: normal;
 color: white;
@@ -1034,14 +1036,14 @@ section#recent-project .filter-menu ul li {
 color: white;
 font-size: 18px;
 font-weight: 500;
-font-family: 'Montserrat', sans-serif;
+font-family: "Century gothic", CenturyGothic, sans-serif;
 }
 li.filter-btn.btn-active {
 color: #6aaf08 !important;
 }
 section#recent-project .col-md-3 h4 {
 font-weight: 300;
-font-family: 'Montserrat', sans-serif;
+font-family: "Century gothic", CenturyGothic, sans-serif;
 color: #6aaf08 !important;
 font-size: 30px;
 }
@@ -1055,7 +1057,7 @@ font-weight: 400;
 color: #939292;
 padding-top: 26px;
 font-size: 16px;
-font-family: 'Montserrat', sans-serif;
+font-family: "Century gothic", CenturyGothic, sans-serif;
 }
 section#recent-project .col-md-3 h6 {
 font-weight: 600;
@@ -1066,7 +1068,7 @@ font-weight: 400;
 color: #6aaf08 !important;
 padding-top: 13px;
 font-size: 18px;
-font-family: 'Montserrat', sans-serif;
+font-family: "Century gothic", CenturyGothic, sans-serif;
 }
 section#recent-project .col-md-3 a {
     color: #6aaf08;
@@ -1518,7 +1520,7 @@ width: 100%;
 margin-top: 10px;
 color: #333;
 padding: 10px;
-font-family: 'Montserrat', sans-serif;
+font-family: "Century gothic", CenturyGothic, sans-serif;
 }
 #recent-project .item p {
 color: #333;
@@ -1572,7 +1574,7 @@ color: white;
 /*color: white;
 font-size: 16px;
 font-weight: 400;
-font-family: 'Montserrat', sans-serif;*/
+font-family: "Century gothic", CenturyGothic, sans-serif;*/
 }
 #recent-project .hoverfx .overlay {
 position: absolute;
@@ -1639,7 +1641,7 @@ opacity: 0;
 -o-transition: all .3s ease;
 transition-property: all .3s ease;
 margin-top: 0px;
-top: 0;
+    top: -126px;
 text-align: center;
 left: 0;
 font-size: 12px;
@@ -1668,13 +1670,13 @@ float: right;
 font-size: 14px;
 font-weight: 600;
 margin-left: 6px;
-font-family: 'Montserrat', sans-serif;
+font-family: "Century gothic", CenturyGothic, sans-serif;
 color: #282a26 !important;
 }
 .nav2 > a {
 font-size: 15px;
 font-weight: 600;
-font-family: 'Montserrat', sans-serif;
+font-family: "Century gothic", CenturyGothic, sans-serif;
 color: #282a26 !important;
 }
 .navbar-toggleable-md .navbar-collapse {
@@ -1702,7 +1704,7 @@ border-radius: 7px
 font-size: 24px;
 font-weight: 500;
 
-font-family: 'Montserrat', sans-serif;
+font-family: "Century gothic", CenturyGothic, sans-serif;
 color: black !important;
 }
 li.nav-item.contact-navitem a {
@@ -1750,7 +1752,7 @@ padding-right: 4px;
 
 section#recent-project .col-md-9 p {
     font-weight: 400;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Century gothic", CenturyGothic, sans-serif;
     color: #ffffff !important;
          font-size: 14px;
     
@@ -1759,7 +1761,7 @@ section#recent-project .col-md-9 p {
 }
 section#recent-project .col-md-9 h2 {
     font-weight: 400;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Century gothic", CenturyGothic, sans-serif;
     color: #ffffff !important;
         font-size: 16px;
         line-height: 24px;
@@ -1843,7 +1845,7 @@ vertical-align: top;
 border-color: #f7f7f7;
 background: #f7f7f7;
 color: #525252;
-font-family: 'Montserrat', sans-serif;
+font-family: "Century gothic", CenturyGothic, sans-serif;
 font-size: 20px;
 font-weight: 100;
 text-align: center;
@@ -1880,7 +1882,7 @@ margin-top: -11px;
 font-size: 16px;
 font-weight: 400;
 
-font-family: 'Montserrat', sans-serif;
+font-family: "Century gothic", CenturyGothic, sans-serif;
 }
 section#servicesgray  {
 
@@ -1898,7 +1900,7 @@ padding-bottom: 30px;
 }
 section#servicsgray p {
 font-style: italic;
-font-family: 'Montserrat', sans-serif;
+font-family: "Century gothic", CenturyGothic, sans-serif;
 font-size: 18px;
 font-weight: 500;
 color: #6b6b6b;
@@ -1906,11 +1908,12 @@ color: #6b6b6b;
 section#servicesblackfooter {
 background: #272727;
 padding-top: 82px;
+padding-bottom: 80px;
 }
 section#servicesblackfooter h3{
 color: #6aaf08;
 font-size: 12px;
-font-family: 'Montserrat', sans-serif;
+font-family: "Century gothic", CenturyGothic, sans-serif;
 font-size: 20px;
 font-weight: 500;
 padding-bottom: 20px;
@@ -1925,7 +1928,7 @@ height: auto;
 padding-bottom: 15px;
 }
 section#servicesblackfooter p {
-font-family: 'Montserrat', sans-serif;
+font-family: "Century gothic", CenturyGothic, sans-serif;
 font-size: 15.98px;
 font-weight: 500;
 }
@@ -1934,7 +1937,7 @@ section#seviceswelcome {
     background: #f7f7f7;
 }
 button.btn.btn-secondary4 {
-background: #6aaf08;
+background: #ef5011;
 color: white;
 }
 section#sevicesourservices {
@@ -1961,33 +1964,34 @@ background: #f7f7f7;
     padding-bottom: 30px
 }
 section#servicesotherservices {
-    padding: 20px 0 0;
+    padding: 50px 0 0;
 }
 .row.text-center.text-lg-left h3 {
 text-align: center !important;
 font-size: 18px;
 font-weight: 400;
 color: black;
-font-family: 'Montserrat', sans-serif;
+font-family: "Century gothic", CenturyGothic, sans-serif;
+padding: 16px;
 }
 section#servicesotherservices h5 {
 font-size: 17px;
 font-weight: 500;
 color: #9b9b9b;
-font-family: 'Montserrat', sans-serif;
+font-family: "Century gothic", CenturyGothic, sans-serif;
 padding-top: 32px;
 padding-bottom: 50px;
 }
 section#servicesotherservices h1 {
 font-size: 36px;
 font-weight: 400;
-font-family: 'Montserrat', sans-serif;
+font-family: "Century gothic", CenturyGothic, sans-serif;
 
 }
 section#servicesotherservices h4 {
 font-size: 18px;
     font-weight: 500;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Century gothic", CenturyGothic, sans-serif;
     line-height: 24px;
     color: #6b6b6b;
 }
@@ -1998,14 +2002,14 @@ section#servicesreviews h1 {
 font-size: 36px;
 font-weight: 400;
 
-font-family: 'Montserrat', sans-serif;
+font-family: "Century gothic", CenturyGothic, sans-serif;
 color: white;
 }
 section#servicesreviews h4 {
 font-size: 18px;
 font-weight: 400;
 
-font-family: 'Montserrat', sans-serif;
+font-family: "Century gothic", CenturyGothic, sans-serif;
 padding-bottom: 55px;
 color: white;
 }
@@ -2032,13 +2036,13 @@ section#servicesgarden h2 {
 font-size: 36px;
 font-weight: 400;
 
-font-family: 'Montserrat', sans-serif;
+font-family: "Century gothic", CenturyGothic, sans-serif;
 }
 section#servicesgarden h6 {
 font-size: 18px;
 font-weight: 500;
 padding-bottom: 42px;
-font-family: 'Montserrat', sans-serif;
+font-family: "Century gothic", CenturyGothic, sans-serif;
 }
 .card {
 border-radius: 5px !important;
@@ -2049,7 +2053,7 @@ text-align: center !important;
 font-size: 18px;
 font-weight: 400;
 padding-bottom: 20px;
-font-family: 'Montserrat', sans-serif;
+font-family: "Century gothic", CenturyGothic, sans-serif;
 }
 .card-body p {
 
@@ -2057,66 +2061,66 @@ text-align: center !important;
 font-size: 16px;
 font-weight: 400;
 padding-bottom: 20px;
-font-family: 'Montserrat', sans-serif;
+font-family: "Century gothic", CenturyGothic, sans-serif;
 }
 section#servicesgarden .col-md-4 {
 padding-bottom: 30px;
 }
 img.card-img-top {
 width: 356px;
+height: 200px;
 }
 section#serviceshowwework h2 {
 font-size: 36px;
 font-weight: 400;
 
-font-family: 'Montserrat', sans-serif;
+font-family: "Century gothic", CenturyGothic, sans-serif;
 }
 section#serviceshowwework h5 {
 font-size: 18px;
 font-weight: 500;
 padding-bottom: 33px;
-font-family: 'Montserrat', sans-serif;
+font-family: "Century gothic", CenturyGothic, sans-serif;
 }
 section#serviceshowwework p {
 font-size: 17px;
 font-weight: 500;
 color:#6b6b6b;
-font-family: 'Montserrat', sans-serif;
+font-family: "Century gothic", CenturyGothic, sans-serif;
 }
 section#seviceswhyoakleighmanor h2 {
 font-size: 36px;
 font-weight: 400;
 
-font-family: 'Montserrat', sans-serif;
+font-family: "Century gothic", CenturyGothic, sans-serif;
 }
 section#seviceswhyoakleighmanor p {
 font-size: 17px;
 font-weight: 500;
 color:#6b6b6b;
-font-family: 'Montserrat', sans-serif;
+font-family: "Century gothic", CenturyGothic, sans-serif;
 }
 section#seviceswhyoakleighmanor h5 {
 font-size: 18px;
 font-weight: 500;
 padding-bottom: 33px;
-font-family: 'Montserrat', sans-serif;
+font-family: "Century gothic", CenturyGothic, sans-serif;
 }
 section#sevicesourservices h2 {
 font-size: 36px;
 font-weight: 400;
 
-font-family: 'Montserrat', sans-serif;
+font-family: "Century gothic", CenturyGothic, sans-serif;
 }
 section#sevicesourservices p {
 font-size: 18px;
 font-weight: 500;
-font-family: 'Montserrat', sans-serif;
+font-family: "Century gothic", CenturyGothic, sans-serif;
 }
 
 section#sevicesourservices .col-md-4 h3 {
     padding-bottom: 0;
-    margin: 0;
-    color: black;
+        margin: 0;
 }
 
 section#seviceswelcome {
@@ -2130,25 +2134,25 @@ background-color: #f7f7f7;
 section#sevicesourservices h3 {
 font-size: 18px;
 font-weight: 400;
-font-family: 'Montserrat', sans-serif;
+font-family: "Century gothic", CenturyGothic, sans-serif;
 }
 section#seviceswelcome h2 {
 font-size: 36px;
 font-weight: 400;
 
-font-family: 'Montserrat', sans-serif;
+font-family: "Century gothic", CenturyGothic, sans-serif;
 }
 section#seviceswelcome h4 {
-font-size: 32px;
+font-size: 36px;
 font-weight: 600;
 padding-bottom: 15px;
-font-family: 'Montserrat', sans-serif;
+font-family: "Century gothic", CenturyGothic, sans-serif;
 }
 section#seviceswelcome p {
 font-size: 17px;
 font-weight: 500;
 padding-bottom: 15px;
-font-family: 'Montserrat', sans-serif;
+font-family: "Century gothic", CenturyGothic, sans-serif;
 color: #6b6b6b;
 }
 button.btn.btn-secondary4 {
@@ -2156,20 +2160,19 @@ button.btn.btn-secondary4 {
     padding: 12px 23px;
     font-weight: 400;
     border-radius: 5px;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Century gothic", CenturyGothic, sans-serif;
     cursor: pointer;
     border: none;
         display: block;
     margin: auto;
     margin-top: 22px;
-    line-height: 24px;
 }
 section#servicesgray {
 font-size: 18px;
 
 font-weight: 400;
 font-style: italic;
-font-family: 'Montserrat', sans-serif;
+font-family: "Century gothic", CenturyGothic, sans-serif;
 color:#6b6b6b;
 }
 section#servicesotherservices img.img-fluid.img-thumbnail {
@@ -2323,7 +2326,7 @@ div#map {
 
 font-weight: 400;
 color: white;
-font-family: 'Montserrat', sans-serif;
+font-family: "Century gothic", CenturyGothic, sans-serif;
  background: #6aaf07;
  border-radius: 5px;
    margin-top: 25px;
@@ -2339,7 +2342,7 @@ section#maincontactus h2 {
    
     margin-bottom: 25px;
    
-font-family: 'Montserrat', sans-serif;
+font-family: "Century gothic", CenturyGothic, sans-serif;
 }
 section#maincontactus .col-md-4 {
     margin: 0px;
@@ -2351,7 +2354,7 @@ section#maincontactus .col-md-4 {
    color: white;
    
    
-font-family: 'Montserrat', sans-serif;
+font-family: "Century gothic", CenturyGothic, sans-serif;
 }
 .textright1 h4 {
     font-size: 16px;
@@ -2360,14 +2363,14 @@ font-family: 'Montserrat', sans-serif;
    color: white;
    
    
-font-family: 'Montserrat', sans-serif;
+font-family: "Century gothic", CenturyGothic, sans-serif;
 }
 .textright2 h4 {
         font-weight: 300;
     /* float: right; */
     font-size: 12px !important;
     /* margin-top: -58px; */
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Century gothic", CenturyGothic, sans-serif;
     margin-right: -41px;
     color: white;
    }
@@ -2376,7 +2379,7 @@ font-family: 'Montserrat', sans-serif;
     
     font-size: 24px !important;
     
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Century gothic", CenturyGothic, sans-serif;
    
      color: white;
 }
@@ -2385,13 +2388,13 @@ font-family: 'Montserrat', sans-serif;
    
     font-size: 24px !important;
     
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Century gothic", CenturyGothic, sans-serif;
     color: white;
 }
 .textright3 h4 {
         font-weight: 300;
     font-size: 18px !important;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Century gothic", CenturyGothic, sans-serif;
 }
 section#contactus-bg-image h1 {
     padding-top: 216px;
@@ -2401,7 +2404,7 @@ section#contactus-bg-image h1 {
    
     font-size: 48px !important;
     
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Century gothic", CenturyGothic, sans-serif;
       
 }
 section#contactusmap h1 {
@@ -2410,7 +2413,7 @@ section#contactusmap h1 {
    padding-top: 65px;
    
     
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Century gothic", CenturyGothic, sans-serif;
       color: black;
 }
 section#contactusmap h2 {
@@ -2420,7 +2423,7 @@ section#contactusmap h2 {
    padding-bottom: 10px;
    
     
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Century gothic", CenturyGothic, sans-serif;
       color: #ef5011;
 }
 section#contactusmap p {
@@ -2428,7 +2431,7 @@ section#contactusmap p {
     font-weight: 400;
    
     margin: 0px;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Century gothic", CenturyGothic, sans-serif;
       color: #303030;
 }
 section#contactusmap {
@@ -2458,7 +2461,7 @@ section#contactusform ul.list-group {
 }
 textarea {
 	    font-weight: 300;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Century gothic", CenturyGothic, sans-serif;
     font-size: 15px;
     width: 100%;
     height: 222px;
@@ -2470,20 +2473,20 @@ textarea {
      font-weight: 300;
    
    
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Century gothic", CenturyGothic, sans-serif;
 }
 section#contactusform .col-md-4 h3 {
        padding-top: 23px;
    
     font-size: 20px;
     font-weight: 300;
-      font-family: 'Montserrat', sans-serif;
+      font-family: "Century gothic", CenturyGothic, sans-serif;
 }
 section#contactusform .col-md-4 p {
     /* padding-top: 74px; */
     font-size: 14px;
     font-weight: 300;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Century gothic", CenturyGothic, sans-serif;
 }
 
 
@@ -2520,13 +2523,13 @@ section#blog-blogsection ul.list-inline {
      font-weight: 300;
          padding-left: 19px;
           background: #f7f8fa;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Century gothic", CenturyGothic, sans-serif;
 }
 section#blog-blogsection .card-body p {
     font-size: 14px;
     
     font-weight: 300;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Century gothic", CenturyGothic, sans-serif;
     padding-bottom: 0px;
 
 }
@@ -2536,13 +2539,13 @@ section#blog-blogsection .card-body h5 {
     font-size: 18px;
     font-weight: 400;
     padding-bottom: 0px;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Century gothic", CenturyGothic, sans-serif;
 }
 section#blog-blogsection .card-body h6 {
     font-size: 14px;
     padding-top: 15px;
     font-weight: 300;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Century gothic", CenturyGothic, sans-serif;
     padding-bottom: 0px;
         text-align: center;
 
@@ -2557,7 +2560,7 @@ section#blog-blogsection .card-body button.btn.btn-details {
     font-size: 14px;
     margin: 14px;
     font-weight: 300;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Century gothic", CenturyGothic, sans-serif;
 }
 section#blog-blogsection .card {
     width: 100%;
@@ -2583,7 +2586,7 @@ section#blog-blogsection h3 {
      font-weight: 300;
          padding-left: 15px;
          background: #f7f8fa;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Century gothic", CenturyGothic, sans-serif;
 }
 section#blog-blogsection .col-md-4 {
 
@@ -2809,7 +2812,7 @@ background: #6aaf07;
     font-weight: 300;
     
     
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Century gothic", CenturyGothic, sans-serif;
 }
 }
 section#portfoliodesignfeatures {
@@ -2880,7 +2883,7 @@ section#homeourservices .col-md-2 {
     background: #f7f7f7;
 }
 button.btn.btn-secondary5 {
-font-family: 'Montserrat', sans-serif;
+font-family: "Century gothic", CenturyGothic, sans-serif;
 background: #6aaf07;
 height: 69px;
 border-radius: 7px;
@@ -2981,7 +2984,7 @@ section#portfolio-blogsection .owl-next:hover {
 section#portfolio-bg-image .home-bg-image-margin {
         margin-top: 125px;
     
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Century gothic", CenturyGothic, sans-serif;
     width: 49%;
 font-weight: 300;
 color: white;
@@ -2989,7 +2992,7 @@ font-size: 48px !important;
 }
 section#portfolio-bg-image .home-bg-image-margin h1 {
    
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Century gothic", CenturyGothic, sans-serif;
 
 font-weight: 300;
 color: white;
@@ -3000,7 +3003,7 @@ section#portfolio-blogsection .col-md-12 .greenbg h1 {
     font-size: 25px;
     font-weight: 300;
     color: white;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Century gothic", CenturyGothic, sans-serif;
     background: #6aaf07;
     border-radius: 5px;
     margin-top: 25px;
@@ -3010,7 +3013,7 @@ section#portfolio-blogsection .col-md-5  h2 {
     padding: 20px;
     font-size: 21px;
     font-weight: 300;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Century gothic", CenturyGothic, sans-serif;
     margin-top: -27px;
     margin-bottom: -27px;
     margin-left: -22px;
@@ -3019,7 +3022,7 @@ section#portfolio-blogsection .col-md-5  h6 {
     
     font-size: 15px;
     font-weight: 300;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Century gothic", CenturyGothic, sans-serif;
     margin-top: 0px;
     margin-bottom: 33px;
     color: black;
@@ -3030,7 +3033,7 @@ section#portfolio-blogsection .col-md-5  h5 {
     
     font-size: 16px;
     font-weight: 300;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Century gothic", CenturyGothic, sans-serif;
    
     color: black;
     
@@ -3040,7 +3043,7 @@ section#portfolio-blogsection .col-md-5  p {
     
     font-size: 13px;
     font-weight: 300;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Century gothic", CenturyGothic, sans-serif;
    
     color: #a6cf6b;
     
@@ -3051,7 +3054,7 @@ section#portfoliodesignfeatures h3 {
     font-weight: 300;
     
     padding-top: 66px;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Century gothic", CenturyGothic, sans-serif;
 }
 div#headingOne a {
     color: #f4f2f2 !important;
@@ -3059,7 +3062,7 @@ div#headingOne a {
     font-weight: 300;
     
      
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Century gothic", CenturyGothic, sans-serif;
 }
 div#headingTwo a {
     color: #f4f2f2 !important;
@@ -3067,7 +3070,7 @@ div#headingTwo a {
     font-weight: 300;
     
     
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Century gothic", CenturyGothic, sans-serif;
 }
 div#headingThree a {
     color: #f4f2f2 !important;
@@ -3075,7 +3078,7 @@ div#headingThree a {
     font-weight: 300;
     
     
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Century gothic", CenturyGothic, sans-serif;
 }
 div#headingFour a {
     color: #f4f2f2 !important;
@@ -3083,7 +3086,7 @@ div#headingFour a {
     font-weight: 300;
     
     
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Century gothic", CenturyGothic, sans-serif;
 }
 div#headingFive a {
     color: #f4f2f2 !important;
@@ -3091,7 +3094,7 @@ div#headingFive a {
     font-weight: 300;
     
     
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Century gothic", CenturyGothic, sans-serif;
 }
 div#headingSix a {
     color: #f4f2f2 !important;
@@ -3099,7 +3102,7 @@ div#headingSix a {
     font-weight: 300;
     
     
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Century gothic", CenturyGothic, sans-serif;
 }
 div#headingSeven a {
     color: #f4f2f2 !important;
@@ -3107,7 +3110,7 @@ div#headingSeven a {
     font-weight: 300;
     
     
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Century gothic", CenturyGothic, sans-serif;
 }
 div#headingEight a {
     color: #f4f2f2 !important;
@@ -3115,7 +3118,7 @@ div#headingEight a {
     font-weight: 300;
     
     
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Century gothic", CenturyGothic, sans-serif;
 }
 section#portfoliorelatedprojects .row1 {
    background: #f7f7f7;
@@ -3130,7 +3133,7 @@ section#portfoliorelatedprojects .row1 p {
     font-weight: 300;
     
     
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Century gothic", CenturyGothic, sans-serif;
 }
 section#portfoliorelatedprojects .col-md-2 {
    
@@ -3145,7 +3148,7 @@ section#portfoliorelatedprojects .col-md-12 h2 {
     font-weight: 300;
     
     
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Century gothic", CenturyGothic, sans-serif;
 }
 
 section#portfoliorelatedprojects .owl-next:hover i {
@@ -3277,7 +3280,7 @@ section#carouselsec h2 {
 text-align: center;
 font-weight: 400;
   font-size: 21px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Century gothic", CenturyGothic, sans-serif;
       margin-right: 72px;
 }
 
@@ -3365,7 +3368,7 @@ button.btn.btn-danger3 {
     height: 71px;
     font-weight: 400;
     color: #f7f7f7;
-    background: #6aaf08;
+    background: #bd4116;
     border-radius: 6px;
     font-family:  'Montserrat', sans-serif;
 }
@@ -3873,12 +3876,12 @@ span.textgreen {
 }
 
 a.cta-btn button {
-    background: #6aaf08;
+    background: #ef5011;
  font-size: 16px;
     padding: 12px 23px;
     font-weight: 400;
     border-radius: 5px;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Century gothic", CenturyGothic, sans-serif;
     cursor: pointer;
     border: none;
     color: white;
@@ -3903,126 +3906,6 @@ div#accordion.portfolio-accordian .card-body {
     line-height: 24px;
 }
 
-
-ul.servicelistitems li {
-    list-style-type: disc;
-        margin-bottom: 4px;
+span.review_text {
+    font-family: "Century Gothic", CenturyGothic, sans-serif !important;
 }
-
-.servicesinner-listitems p { 
-  text-align: left;
-}
-
-.row.text-center.text-lg-left.servicesinner-listitems h3 {
-    text-align: left !important;
-    padding-left: 0;
-    color: #6aaf08;
-}
-
-.row.text-center.text-lg-left.servicesinner-listitems p {
-    font-size: 16px !important;
-}
-
-section#listitemservices h2 {
-    font-size: 36px;
-    font-weight: 400;
-}
-
-section#listitemservices {
-    padding-top: 14px;
-}
-
-ul.servicelistitems {
-    padding-left: 16px;
-}
-
-
-section#sevicesourservices .d-block p {
-    color: #6b6b6b;
-    font-size: 16px;
-    font-weight: 400;
-    text-align: center;
-    padding-top: 14px;
-    line-height: 28px;
-}
-
-section#sevicesourservices .d-block .img-fluid {
-    width: 100%;
-}
-
-
-ul.service-unorderlists {
-  margin-top: 20px;
-      margin-left: 23px;
-}
-ul.service-unorderlists li {
-    list-style-type: disc;
-    color: black;
-    margin-bottom: 10px;
-}
-
-section#listitemservices .col-md-4 h3 {
-    text-transform: uppercase;
-}
-
-
-section#sevicesourservices .col-md-12 p {
-    margin-bottom: 0;
-}
-
-section#sevicesourservices .row.text-center.text-lg-left {
-    margin-top: 6px;
-}
-
-p.second-title {
-    color: #6aaf08;
-}
-
-section#sevicesourservices .col-md-4 h3 {
-    padding-top: 15px;
-    color: #6aaf08;
-    padding-bottom: 15px;
-}
-
-section#servicesotherservices .col-md-4 h3 {
-    margin-top: 10px;
-}
-
-section#sevicesourservices .col-md-12 h2 {
-    margin-bottom: 0;
-}
-
-section#servicesgarden .card-body {
-    padding: 10px;
-}
-
-section#servicesgarden .card-title {
-  color: #6aaf08;
-}
-
-
-section#servicesgarden h2 {
-    padding-bottom: 10px;
-}
-
-section#sevicesourservices .col-md-12 h2 {
-    margin-bottom: 10px;
-}
-
-section#sevicesourservices a.d-block.mb-4 {
-    pointer-events: none;
-}
-
-section#sevicesourservices .col-md-12 {
-    padding-left: 0;
-    padding-right: 0;
-}
-
-section#sevicesourservices h3 {
-    text-align: center;
-}
-
-.footertxt.col-md-12 p.text-center {
-    margin-top: 40px;
-}
-
